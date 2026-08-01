@@ -1,0 +1,34 @@
+User-agent: *
+Allow: /
+Allow: /practice
+Allow: /mock-tests
+Allow: /previous-papers
+Allow: /ts-ecet-preparation
+Allow: /ts-ecet-mock-test
+Allow: /ts-ecet-practice-questions
+Allow: /ts-ecet-previous-papers
+Allow: /ts-ecet-syllabus
+Allow: /cse-ecet
+Allow: /ece-ecet
+Allow: /eee-ecet
+Allow: /civil-ecet
+Allow: /mechanical-ecet
+Allow: /about
+Allow: /contact
+Allow: /privacy
+Allow: /terms
+
+# Block Admin and Private Sections from search engines
+Disallow: /admin
+Disallow: /admin-review
+Disallow: /dashboard
+Disallow: /question
+Disallow: /mock-exam
+Disallow: /results
+Disallow: /analytics
+Disallow: /premium
+Disallow: /private
+Disallow: /mock-exam-results
+
+# Link XML Sitemap
+Sitemap: https://ecetrankers.in/sitemap.xml
