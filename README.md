@@ -88,18 +88,45 @@ The application focuses on delivering a smooth user experience with a responsive
 - GitHub
 
 ---
+# 📸 Screenshots
 
-# 🖼 Screenshots
+### 🏠 Home & Practice
 
-```md
-![Home](images/home.png)
+| Home | Practice |
+|------|----------|
+| ![](screenshots/01-home.png) | ![](screenshots/02-practice.png) |
 
-![Practice](images/practice.png)
+---
 
-![Mock Test](images/mock-test.png)
+### 📝 Mock Test & Previous Papers
 
-![Dashboard](images/dashboard.png)
-```
+| Mock Test | Previous Papers |
+|-----------|-----------------|
+| ![](screenshots/03-mock.png) | ![](screenshots/04-previous-papers.png) |
+
+---
+
+### 📊 Analytics & Dashboard
+
+| Analytics | Dashboard |
+|-----------|-----------|
+| ![](screenshots/05-analytics.png) | ![](screenshots/06-dashboard.png) |
+
+---
+
+### ⚙️ Admin Panel & Dark Theme
+
+| Admin Panel | Dark Theme |
+|-------------|------------|
+| ![](screenshots/07-admin-panel.png) | ![](screenshots/08-dark-theme.png) |
+
+---
+
+### 📱 Mobile Preview
+
+| Mobile Preview |
+|----------------|
+| ![](screenshots/09-mobile-preview.png) |
 
 ---
 
@@ -170,20 +197,7 @@ VITE_SUPABASE_ANON_KEY=
 
 ---
 
-# 🏗 Architecture
 
-```text
-React UI
-     │
-     ▼
-Application Services
-     │
-     ▼
-Supabase Authentication
-     │
-     ▼
-Supabase PostgreSQL Database
-```
 
 ---
 
