@@ -14,7 +14,7 @@
 
 # 📌 Live Demo
 
-> https://ecetrankers.vercel.app/
+> https://ecetrankers.in
 
 ---
 
