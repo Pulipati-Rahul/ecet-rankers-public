@@ -94,7 +94,7 @@ The application focuses on delivering a smooth user experience with a responsive
 
 | Home | Practice |
 |------|----------|
-| ![](screenshots/01-home.png) | ![](screenshots/02-practice.png) |
+| ![](screenshots/01-home.png) | ![](screenshots/02-practise.png) |
 
 ---
 
