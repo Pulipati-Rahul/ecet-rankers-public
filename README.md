@@ -110,7 +110,7 @@ The application focuses on delivering a smooth user experience with a responsive
 
 | Analytics | Dashboard |
 |-----------|-----------|
-| ![](screenshots/05-analytics.png) | ![](screenshots/06-dashboard.png) |
+| ![](screenshots/05-.analytics.png) | ![](screenshots/06-dashboard.png) |
 
 ---
 
